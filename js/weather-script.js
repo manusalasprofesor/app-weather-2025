@@ -1,5 +1,5 @@
 // Nos mantenemos a la escucha que se cargue la página
-const apiClave = 'a9a0c550e7617ee2a2601fa5dc985f49';
+const apiClave = '******************************************'; // substitueix per la teva clau d'Openweather
 
 // Consulta por ubicación del usuario
 window.addEventListener('load', ()=>{
