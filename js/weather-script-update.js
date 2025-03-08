@@ -1,6 +1,6 @@
 // Nos mantenemos a la escucha que se cargue la página
-const apiClave = 'a9a0c550e7617ee2a2601fa5dc985f49'; // Sustituye por tu clave de Openweather
-const apikeyUnplash = 'DeFjVs9RHp_oXbJhYwMpqEpA-JnclDZjyGgTvDlo6QA'; // Sustituye por tu clave de Unsplash
+const apiClave = '***************************************'; // Sustituye por tu clave de Openweather
+const apikeyUnplash = '*****************************************'; // Sustituye por tu clave de Unsplash
 
 // Consulta por ubicación del usuario
 window.addEventListener('load', ()=>{
